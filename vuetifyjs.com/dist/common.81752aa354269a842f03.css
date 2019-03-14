@@ -1,0 +1,8 @@
+
+@media (min-width: 1264px) {
+.v-content[data-v-10ea4164]:not([data-booted="true"]) {
+    padding-left: 300px !important;
+    padding-right: 210px !important;
+}
+}
+
